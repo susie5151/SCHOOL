@@ -1801,6 +1801,21 @@ body {
     width: 100% !important;
   }
 }
+.cid-rdbKYbJDIe {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-rdbKYbJDIe .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rdbKYbJDIe .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
